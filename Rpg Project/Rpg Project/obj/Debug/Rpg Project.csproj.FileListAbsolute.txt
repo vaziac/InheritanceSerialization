@@ -1,0 +1,10 @@
+C:\Users\Rylan\Desktop\Rpg Project\InheritanceSerialization\Rpg Project\Rpg Project\bin\Debug\Rpg Project.exe.config
+C:\Users\Rylan\Desktop\Rpg Project\InheritanceSerialization\Rpg Project\Rpg Project\bin\Debug\Rpg Project.exe
+C:\Users\Rylan\Desktop\Rpg Project\InheritanceSerialization\Rpg Project\Rpg Project\bin\Debug\Rpg Project.pdb
+C:\Users\Rylan\Desktop\Rpg Project\InheritanceSerialization\Rpg Project\Rpg Project\obj\Debug\Rpg Project.csprojResolveAssemblyReference.cache
+C:\Users\Rylan\Desktop\Rpg Project\InheritanceSerialization\Rpg Project\Rpg Project\obj\Debug\Rpg_Project.FormSplashPage.resources
+C:\Users\Rylan\Desktop\Rpg Project\InheritanceSerialization\Rpg Project\Rpg Project\obj\Debug\Rpg_Project.Properties.Resources.resources
+C:\Users\Rylan\Desktop\Rpg Project\InheritanceSerialization\Rpg Project\Rpg Project\obj\Debug\Rpg Project.csproj.GenerateResource.Cache
+C:\Users\Rylan\Desktop\Rpg Project\InheritanceSerialization\Rpg Project\Rpg Project\obj\Debug\Rpg Project.exe
+C:\Users\Rylan\Desktop\Rpg Project\InheritanceSerialization\Rpg Project\Rpg Project\obj\Debug\Rpg Project.pdb
+C:\Users\Rylan\Desktop\Rpg Project\InheritanceSerialization\Rpg Project\Rpg Project\obj\Debug\Rpg_Project.FormCharacterCreator.resources
